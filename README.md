@@ -54,6 +54,12 @@ if(player1.getScore() > player2.getScore()) {
 }
 
 Installation and usage:
-Clone my project - 
+Clone my project - https://github.com/RafyPerez95/GameOfWarCardGame.git
+
+Project Directory: 
+cd - week6codingproject
+
+Contributions:
+* Anyone can contribute to this project 
 
     
