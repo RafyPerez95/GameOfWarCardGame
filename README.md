@@ -60,6 +60,10 @@ Project Directory:
 cd - week6codingproject
 
 Contributions:
-* Anyone can contribute to this project 
+* Anyone can contribute to this project!
+
+Contact Info:
+* Email: Rafantperez1@gmail.com
+* Project Link: https://github.com/RafyPerez95/GameOfWarCardGame.git
 
     
